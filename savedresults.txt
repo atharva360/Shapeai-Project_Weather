@@ -1,3 +1,4 @@
+FOLLOWING IS THE OUTPUT GRNRATED 
 date: 22 Jun 2021 | 07:31:26 PM
 location: Badlapur
 temperature: 29.890000000000043
